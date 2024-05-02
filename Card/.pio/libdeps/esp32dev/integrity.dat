@@ -1,0 +1,4 @@
+knolleary/PubSubClient@^2.8
+miguelbalboa/MFRC522@^1.4.10
+bblanchon/ArduinoJson@^6.21.2
+amcewen/HttpClient@^2.2.0
